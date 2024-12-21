@@ -74,6 +74,8 @@ Exemple :
 ## Références pour vous aider :
 - https://www.youtube.com/watch?v=yKjFm3Ijv0I&ab_channel=LaminuteExcel
 - https://www.youtube.com/watch?v=oTV3ZGPLQuU&ab_channel=Bertrand.Tech
+- https://www.youtube.com/watch?v=D568OLpAh5Y&ab_channel=ExcelExercice
+- https://www.youtube.com/watch?v=9HEgf7Z5Dzw&ab_channel=En1minute
 
 2. **Entrez une formule conditionnelle** dans la cellule C2 pour analyser les données et donner une recommandation :
    ```excel
@@ -124,7 +126,7 @@ Entrez les données suivantes dans votre système et vérifiez les résultats ob
 
 ---
 
-### **Étape 6 : Activité Bonus**
+### **Étape 6 : Activité**
 
 1. Si vous avez terminé rapidement, essayez de **visualiser votre base de connaissances** avec un outil de carte mentale comme FreeMind.
    - Créez un nœud principal appelé **Recommandation d’investissements**.
@@ -132,6 +134,10 @@ Entrez les données suivantes dans votre système et vérifiez les résultats ob
      - **Revenu : Faible → Tolérance : Faible → Compte d’épargne**.
      - **Revenu : Élevé → Tolérance : Élevée → Actions**.
 2. Partagez cette carte mentale avec vos collègues ou votre professeur.
+
+## Références: 
+- https://www.youtube.com/watch?v=yzn0j-UXlNU&list=PLbaO4vd0oaGna9AxpiyN8rMwJzQZLUSP-&ab_channel=ContentSparks
+- https://www.youtube.com/watch?v=wYRLzPUEJdI&list=PLbaO4vd0oaGna9AxpiyN8rMwJzQZLUSP-&index=8&ab_channel=DrLakshmiD
 
 ---
 
