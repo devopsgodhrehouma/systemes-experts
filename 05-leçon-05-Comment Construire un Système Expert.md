@@ -1,4 +1,4 @@
-### Cours 5 : Comment Construire un Système Expert ?
+# Cours 5 : Comment Construire un Système Expert ?
 
 ---
 
