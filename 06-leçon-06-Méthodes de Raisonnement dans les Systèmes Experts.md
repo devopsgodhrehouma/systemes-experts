@@ -1,4 +1,4 @@
-### Cours 6 : Méthodes de Raisonnement dans les Systèmes Experts
+# Cours 6 : Méthodes de Raisonnement dans les Systèmes Experts
 
 ---
 
